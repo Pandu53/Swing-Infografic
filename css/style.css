@@ -24,4 +24,10 @@ body {
     position: fixed;
     top: 0px;
     left: 0px;
+    visibility: hidden;
+    font-size: 5rem;
+}
+
+.visibleFrame100 {
+    visibility: visible;
 }
